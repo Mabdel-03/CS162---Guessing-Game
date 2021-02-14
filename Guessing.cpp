@@ -48,5 +48,6 @@ int main()
       keepPlaying = false; //terminate
     }
   }
+  return 0;
       
 }
